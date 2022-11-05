@@ -137,6 +137,25 @@
   </tr>
  </table>
 
+### Tools 
+
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td style="width: 33%;">#</td>
+    <td style="width: 33%;">Date</td>
+    <td style="width: 33%;">Name</td>
+     <td style="width: 33%;">Description</td>    
+  </tr>
+  
+   <tr>
+    <td style="width: 33%;">1</td>
+    <td style="width: 33%;">2021</td>
+    <td style="width: 33%;">Simple Payload Generator</td>
+    <td style="width: 33%;"><p><a href="https://github.com/larm182/Simple-Generador-de-Payload" target="_blank">Script to generate simple Payload with Metasploit</a></p></td>
+       
+  </tr>
+  
+ </table>
 
 
 
