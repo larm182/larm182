@@ -123,3 +123,20 @@
     <td  colspan="3" style="width: 100%; padding-top: 50px;"><p><a href="https://www.youtube.com/c/LuisAngelRamirezMendoza" target="_blank">Youtube Channel</a></p></td>
   </tr>
 </table>
+
+### Tutorial videos
+
+<table>
+<tr>     
+  <tr>  
+    <td colspan="3" style="width: 100%; padding-top: 50px;"><p><a href="https://www.youtube.com/playlist?list=PL0bbqRB4e6O8R1qTlg6AEPx8HqrAd5RZO" target="_blank">Python For Hacker</a></p></td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;"><p><a href="https://www.youtube.com/playlist?list=PL0bbqRB4e6O-DArtjV8Rn12zKSdLrRi_j" target="_blank">Applications Development</a></p></td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;"><p><a href="https://www.youtube.com/playlist?list=PL0bbqRB4e6O8bmYzWuNK_I-KfBCB2ybYr" target="_blank">Python for Electronics</a></p></td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;"><p><a href="https://www.youtube.com/playlist?list=PL0bbqRB4e6O8OxYIfuWwwGI42TFnaAqmY" target="_blank">Programming with Python</a></p></td>
+    <td colspan="3" style="width: 100%; padding-top: 50px;"><p><a href="https://www.youtube.com/playlist?list=PL0bbqRB4e6O9KV7-q4H2sHYt-4ozHMDrU" target="_blank">Audit</a></p></td>
+  </tr>
+ </table>
+
+
+
+
