@@ -163,6 +163,14 @@
        
   </tr>
   
+  <tr>
+    <td style="width: 33%;">3</td>
+    <td style="width: 33%;">2021</td>
+    <td style="width: 33%;">Simple OSINT</td>
+    <td style="width: 33%;"><p><a href="https://github.com/larm182/Python-XSS" target="_blank">Simple XSS Scanner</a></p></td>
+       
+  </tr>
+  
  </table>
 
 
