@@ -1,16 +1,45 @@
 ### Hi there 👋
 
-<!--
-**larm182/larm182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table class="default">
 
-Here are some ideas to get you started:
+  <tr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <th>Hoy</th>
+
+    <th>Mañana</th>
+
+    <th>Martes</th>
+
+  </tr>
+
+  <tr>
+
+    <td>Soleado</td>
+
+    <td>Mayormente soleado</td>
+
+    <td>Parcialmente nublado</td>
+
+  </tr>
+
+  <tr>
+
+    <td>19°C</td>
+
+    <td>17°C</td>
+
+    <td>12°C</td>
+
+  </tr>
+
+  <tr>
+
+    <td>E 13 km/h</td>
+
+    <td>E 11 km/h</td>
+
+    <td>S 16 km/h</td>
+
+  </tr>
+
+</table>
