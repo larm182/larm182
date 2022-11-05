@@ -18,18 +18,78 @@
     <td style="width: 33%;">1</td>
     <td style="width: 33%;">2019</td>
     <td style="width: 33%;">Dragon JAR</td>
-     <td style="width: 33%;">Col</td>
+     <td style="width: 33%;">CO</td>
     <td style="width: 33%;"><p><a href="https://github.com/larm182/El-parlante-hacker" target="_blank">Speaker Hacker</a></p></td>
   </tr
   <tr>
     <td style="width: 33%;">2</td>
     <td style="width: 33%;">2020</td>
-    <td style="width: 33%;">DEF CON 28</td>
+    <td style="width: 33%;">DEF CON 28 Red Team Village</td>
      <td style="width: 33%;">US</td>
-    <td style="width: 33%;"><p><a href="https://github.com/larm182/Sounds-Legit" target="_blank">Sounds-Legit</a></p></td>
+    <td style="width: 33%;"><p><a href="https://github.com/larm182/Sounds-Legit" target="_blank">Sounds Legit</a></p></td>
   </tr
   <tr>
-     
+  
+   <tr>
+    <td style="width: 33%;">3</td>
+    <td style="width: 33%;">2020</td>
+    <td style="width: 33%;">DEF CON 28 Red Team Village</td>
+     <td style="width: 33%;">US</td>
+    <td style="width: 33%;"><p><a href="https://github.com/larm182/EvilGenius" target="_blank">EvilGenius</a></p></td>
+  </tr
+  <tr>
+  
+   <tr>
+    <td style="width: 33%;">4</td>
+    <td style="width: 33%;">2020</td>
+    <td style="width: 33%;"> BSides Newcastle</td>
+     <td style="width: 33%;">UK</td>
+    <td style="width: 33%;"><p><a href="https://github.com/larm182/charge" target="_blank">Charge!: Why you shouldn't trust that power bank</a></p></td>
+  </tr
+  <tr>
+  
+  <tr>
+    <td style="width: 33%;">5</td>
+    <td style="width: 33%;">2020</td>
+    <td style="width: 33%;">YASCon India</td>
+     <td style="width: 33%;">IN</td>
+    <td style="width: 33%;"><p><a href="https://github.com/larm182/BumpKey-A-hardware-swiss-knife-for-RedTeaming" target="_blank">BumpKey: una navaja suiza de hardware para RedTeaming</a></p></td>
+  </tr
+  <tr>
+  
+  <tr>
+    <td style="width: 33%;">6</td>
+    <td style="width: 33%;">2020</td>
+    <td style="width: 33%;">Bsides Islamabad Pakistán</td>
+     <td style="width: 33%;">PK</td>
+    <td style="width: 33%;"><p><a href="https://github.com/larm182/BumpKey-A-hardware-swiss-knife-for-RedTeaming" target="_blank">BumpKey: una navaja suiza de hardware para RedTeaming</a></p></td>
+  </tr
+  
+  <tr>
+    <td style="width: 33%;">7</td>
+    <td style="width: 33%;">2021</td>
+    <td style="width: 33%;">P0SCon Urmía</td>
+     <td style="width: 33%;">IR</td>
+    <td style="width: 33%;"><p><a href="https://github.com/larm182/A-visit-to-the-Armory" target="_blank">A visit to the Armory</a></p></td>
+  </tr
+    
+   <tr>
+    <td style="width: 33%;">8</td>
+    <td style="width: 33%;">2021</td>
+    <td style="width: 33%;">ROOTCON 15</td>
+     <td style="width: 33%;">PH</td>
+    <td style="width: 33%;"><p><a href="https://github.com/larm182/-A-visit-to-the-Armory-Building-your-own-Combat-Hardware" target="_blank">A visit to the Armory: crafting your own combat hardware</a></p></td>
+  </tr>
+  
+   <tr>
+    <td style="width: 33%;">9</td>
+    <td style="width: 33%;">2021</td>
+    <td style="width: 33%;">DEFCON 29 Adversary Village</td>
+     <td style="width: 33%;">US</td>
+    <td style="width: 33%;"><p><a href="https://github.com/larm182/Everything-is-a-C2-if-you-re-brave-enough" target="_blank">Everything is a C2 if you're brave enough</a></p></td>
+  </tr>
+  
+  <tr>
      
   <tr>  
     <td colspan="3" style="width: 100%; padding-top: 50px;">Más contenido</td>
