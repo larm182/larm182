@@ -2,7 +2,7 @@
 
 🏴‍☠️ Hacker and Speaker.
 
-🦾 Cybersecurity Engineer with more than 10 years of experience providing information security services and education. 
+🦾 Offensive Security Hardware Engineer. 
 
 ### Conferences
 
