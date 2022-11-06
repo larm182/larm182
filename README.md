@@ -124,6 +124,24 @@
   </tr>
 </table>
 
+### Media
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td style="width: 33%;">#</td>
+    <td style="width: 33%;">Agency</td>
+    <td style="width: 33%;">Title</td>
+     <td style="width: 33%;">Link</td>    
+  </tr>
+  
+   <tr>
+    <td style="width: 33%;">1</td>
+    <td style="width: 33%;">Clarin</td>
+    <td style="width: 33%;">DDoS: qué es un ataque de denegación de servicio y cómo hace caer las conexiones de internet</td>
+     <td style="width: 33%;">https://www.clarin.com/tecnologia/ddos-ataque-denegacion-servicio-hace-caer-conexiones-internet_0_Nrdoflm562.html</td>    
+  </tr>
+  </table>
+
+
 ### Tutorial videos
 
 <table>
@@ -168,6 +186,38 @@
     <td style="width: 33%;">2021</td>
     <td style="width: 33%;">Python-XSS</td>
     <td style="width: 33%;"><p><a href="https://github.com/larm182/Python-XSS" target="_blank">Simple XSS Scanner</a></p></td>
+       
+  </tr>
+  
+   <tr>
+    <td style="width: 33%;">4</td>
+    <td style="width: 33%;">2020</td>
+    <td style="width: 33%;">Social_spam</td>
+    <td style="width: 33%;"><p><a href="https://github.com/aureliohacking/Social_spam" target="_blank">Tool to produce spam in social networks</a></p></td>
+       
+  </tr>
+  
+   <tr>
+    <td style="width: 33%;">5</td>
+    <td style="width: 33%;">2020</td>
+    <td style="width: 33%;">Scanner-Web</td>
+    <td style="width: 33%;"><p><a href="https://github.com/aureliohacking/Scanner-Web" target="_blank">Simple application to perform scanning of web applications</a></p></td>
+       
+  </tr>
+  
+  <tr>
+    <td style="width: 33%;">6</td>
+    <td style="width: 33%;">2020</td>
+    <td style="width: 33%;">Simple Brute Force ssh</td>
+    <td style="width: 33%;"><p><a href="https://github.com/aureliohacking/Simple-Fuerza-Bruta-ssh" target="_blank">Brute force ssh protocols</a></p></td>
+       
+  </tr>
+  
+   <tr>
+    <td style="width: 33%;">7</td>
+    <td style="width: 33%;">2019</td>
+    <td style="width: 33%;">Simple Backdoor</td>
+    <td style="width: 33%;"><p><a href="https://github.com/aureliohacking/simple_backdoor-_AES" target="_blank">Simple Backdoor_AES</a></p></td>
        
   </tr>
   
