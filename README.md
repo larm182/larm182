@@ -124,6 +124,25 @@
   </tr>
 </table>
 
+### Podcasts
+
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td style="width: 33%;">#</td>
+    <td style="width: 33%;">Agency</td>
+    <td style="width: 33%;">Title</td>
+     <td style="width: 33%;">Link</td>    
+  </tr>
+  
+   <tr>
+    <td style="width: 33%;">1</td>
+    <td style="width: 33%;">89.5 Olimpica stereo</td>
+    <td style="width: 33%;">Business information security</td>
+      <td style="width: 33%;"><p><a href="https://drive.google.com/file/d/12iofR6aaouquaG5mbb7pdbkzOxKsaorP/view?usp=share_link" target="_blank">University Society Space</a></p></td>
+  </table>
+  
+
+
 ### Media
 <table style="width: 100%; text-align: center;">
   <tr>
