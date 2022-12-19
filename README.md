@@ -54,7 +54,7 @@
     <td style="width: 33%;">YASCon India</td>
      <td style="width: 33%;">IN</td>
     <td style="width: 33%;"><p><a href="https://github.com/larm182/BumpKey-A-hardware-swiss-knife-for-RedTeaming" target="_blank">BumpKey: una navaja suiza de hardware para RedTeaming</a></p></td>
-  </tr
+  </tr>
   
   
   <tr>
