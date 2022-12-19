@@ -159,14 +159,6 @@
      <td style="width: 33%;">https://www.clarin.com/tecnologia/-mefiltraron-lanzan-base-datos-gratuita-comprobar-datos-personales-filtrados-online_0_7fhDRPMNfa.html?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1671126569</td>    
   </tr>
   
-    <tr>
-    <td style="width: 33%;">2</td>
-    <td style="width: 33%;">Clarin</td>
-    <td style="width: 33%;">DDoS: qué es un ataque de denegación de servicio y cómo hace caer las conexiones de internet</td>
-    <td style="width: 33%;">https://www.clarin.com/tecnologia/ddos-ataque-denegacion-servicio-hace-caer-conexiones-internet_0_Nrdoflm562.html</td>   
-    
-    </tr>
- 
   
    <tr>
     <td style="width: 33%;">3</td>
