@@ -160,6 +160,12 @@
   </tr>
   
   
+    <tr>
+    <td style="width: 33%;">2</td>
+    <td style="width: 33%;">Clarin</td>
+    <td style="width: 33%;">Feria Tecnologica Universidad de La Guajira</td>
+     <td style="width: 33%;"><p><a href="https://drive.google.com/file/d/1ZMTGnmJ9mQqQ3V62r2eki9veetrCnhtt/view?usp=sharing" target="_blank">Recorte del periodico impreso</a></p></td>
+  
    <tr>
     <td style="width: 33%;">3</td>
     <td style="width: 33%;">Diario del Norte</td>
