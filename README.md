@@ -152,6 +152,14 @@
      <td style="width: 33%;">Link</td>    
   </tr>
   
+   <tr>
+    <td style="width: 33%;">1</td>
+    <td style="width: 33%;">2019</td>
+    <td style="width: 33%;">Dragon JAR</td>
+     <td style="width: 33%;">CO</td>
+    <td style="width: 33%;"><p><a href="https://github.com/larm182/El-parlante-hacker" target="_blank">Speaker Hacker</a></p></td>
+  </tr>
+  
  <tr>
     <td style="width: 33%;">2</td>
     <td style="width: 33%;">Clarin</td>
