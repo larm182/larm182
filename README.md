@@ -2,7 +2,7 @@
 
 🏴‍☠️ Hacker and Speaker.
 
-🦾 Offensive Security Hardware Engineer. 
+🦾 Offensive Security Hardware Engineer, Ethical Hacking, Pentester Web, Docente.
 
 ### Conferences
 
