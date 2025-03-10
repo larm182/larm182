@@ -211,7 +211,7 @@
     <td style="width: 33%;">1</td>
     <td style="width: 33%;">2025</td>
     <td style="width: 33%;">Ofuscador de Payloads</td>
-    <td style="width: 33%;"><p><a https://github.com/larm182/Ofuscador_payload" target="_blank"> Ofuscador de payloads generado con Metasploit, desarrollado en Python con una interfaz en Tkinter.</a></p></td>
+    <td style="width: 33%;"><p><a href="https://github.com/larm182/Ofuscador_payload" target="_blank"> Ofuscador de payloads generado con Metasploit, desarrollado en Python con una interfaz en Tkinter.</a></p></td>
        
   </tr>
     <tr>
