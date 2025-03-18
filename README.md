@@ -235,6 +235,13 @@
     <td style="width: 33%;"><p><a href="https://www.youtube.com/watch?v=Qt_2z45p_bE&t=33s" target="_blank">Este ejercicio se puso en practica lo aprendido en el curso de ciberseguridad</a></p></td>       
   </tr>
 
+  <tr>
+    <td style="width: 33%;">5</td>
+    <td style="width: 33%;">2024</td>
+    <td style="width: 33%;">Solucion del Challenge WEB(Curso de Ciberseguridad)</td>
+    <td style="width: 33%;"><p><a href="https://www.linkedin.com/posts/luis-angel-ramirez-mendoza-0a103a139_programacion-hacking-ciberseguridad-activity-7239982658007572480-Alxd?utm_source=share&utm_medium=member_desktop&rcm=ACoAACGkhvkBJK2MqJ6f6YVwY0Ru2ykVf1gs-c8" target="_blank">Este ejercicio se puso en practica lo aprendido en el curso de ciberseguridad</a></p></td>       
+  </tr>
+
   
 
    </table>
