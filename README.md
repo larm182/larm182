@@ -316,7 +316,11 @@
     <td style="width: 33%;">7</td>
     <td style="width: 33%;">2024</td>
     <td style="width: 33%;">CTF WEB</td>
-    <td style="width: 33%;"><p><a href="https://github.com/larm182/CTF_WEB" target="_blank">Simple Reto web para Principiantes</a></p></td>
+    <td style="width: 33%;"><p><a href="https://github.com/larm182/CTF_WEB" target="_blank">Simple Reto web para Principiantes, Los retos de pentesting web suelen ser sobre:
+✅ Reconocimiento: Enumerar subdominios, identificar tecnologías.
+✅ Exploitación: XSS, SQL Injection, CSRF, SSRF, LFI/RFI.
+✅ Bypass de Autenticación: IDOR, fuerza bruta, JWT, OAuth.
+✅ Análisis de Tráfico: Capturar y modificar peticiones con Burp Suite.</a></p></td>
        
   </tr>
 
