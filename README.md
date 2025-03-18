@@ -214,6 +214,7 @@
     <td style="width: 33%;"><p><a href="https://www.youtube.com/watch?v=bB6imSt66Pk&t=14s" target="_blank">Este ejercicio se puso en practica lo aprendido en el diplomado de ciberseguridad Empresarial de la Universidad de la Guajira</a></p></td>       
   </tr>
 
+   </table>
 
 
 
