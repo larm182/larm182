@@ -218,14 +218,14 @@
     <td style="width: 33%;">2</td>
     <td style="width: 33%;">2023</td>
     <td style="width: 33%;">Solución del challenge Terpsichora(Curso de Ciberseguridad)</td>
-    <td style="width: 33%;"><p><a href="https://www.youtube.com/watch?v=dQ9DdVGGyag" target="_blank">Este ejercicio se puso en practica lo aprendido en el curso de ciberseguridad</a></p></td>       
+    <td style="width: 33%;"><p><a href="https://www.youtube.com/watch?v=dQ9DdVGGyag" target="_blank">Este ejercicio se puso en practica lo aprendido en el curso de cibersegurida</a></p></td>       
   </tr>
 
   <tr>
     <td style="width: 33%;">3</td>
     <td style="width: 33%;">2023</td>
     <td style="width: 33%;">Solución del Challenge Tace Aetheris(Preparacion para el CEH Practical)</td>
-    <td style="width: 33%;"><p><a href="https://www.youtube.com/watch?v=Qt_2z45p_bE&t=33s" target="_blank">Curso preparador para el CEH Practical</a></p></td>       
+    <td style="width: 33%;"><p><a href="https://www.youtube.com/watch?v=Qt_2z45p_bE&t=33s" target="_blank">Este taller está diseñado para preparar a los estudiantes para el examen Certified Ethical Hacker (CEH) , una certificación reconocida a nivel mundial en el campo de la ciberseguridad. A través de ejercicios prácticos, estudios de caso y sesiones teóricas, los participantes aprenderán las habilidades necesarias para identificar vulnerabilidades, realizar pruebas de penetración y proteger sistemas contra ataques cibernéticos.</a></p></td>       
   </tr>
 
    <tr>
