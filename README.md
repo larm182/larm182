@@ -198,6 +198,22 @@
   </tr>
  </table>
 
+ ### Desafios CTF 
+
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td style="width: 33%;">#</td>
+    <td style="width: 33%;">Date</td>
+    <td style="width: 33%;">Name</td>
+     <td style="width: 33%;">Description</td>    
+  </tr>
+  <tr>
+    <td style="width: 33%;">1</td>
+    <td style="width: 33%;">2023</td>
+    <td style="width: 33%;">Taller del Diplomado en Ciberseguridad</td>
+    <td style="width: 33%;"><p><a href="https://www.youtube.com/watch?v=bB6imSt66Pk&t=14s" target="_blank">Este ejercicio se puso en practica lo aprendido en el diplomado de ciberseguridad Empresarial de la Universidad de la Guajira</a></p></td>       
+  </tr>
+
 ### Tools 
 
 <table style="width: 100%; text-align: center;">
