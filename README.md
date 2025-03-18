@@ -360,7 +360,7 @@
     <td style="width: 33%;">12</td>
     <td style="width: 33%;">2023</td>
     <td style="width: 33%;">Simple Ransomware Android</td>
-    <td style="width: 33%;"><p><a href="" target="_blank">https://github.com/larm182/Simple_ransomware_Android/</a></p></td>
+    <td style="width: 33%;"><p><a href="https://github.com/larm182/Simple_ransomware_Android/" target="_blank">Los ransomware en Android son una amenaza creciente que afecta tanto a usuarios individuales como a organizaciones. Este documento busca fomentar el aprendizaje ético y responsable en el campo de la ciberseguridad móvil.</a></p></td>
        
   </tr>
   
