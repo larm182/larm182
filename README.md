@@ -232,7 +232,7 @@
     <td style="width: 33%;">4</td>
     <td style="width: 33%;">2023</td>
     <td style="width: 33%;">Solucion del Challenge Reverse engineering(Curso de Ciberseguridad)</td>
-    <td style="width: 33%;"><p><a href="https://www.youtube.com/watch?v=Qt_2z45p_bE&t=33s" target="_blank">Este ejercicio se puso en practica lo aprendido en el curso de ciberseguridad</a></p></td>       
+    <td style="width: 33%;"><p><a href="https://www.youtube.com/watch?v=Qt_2z45p_bE&t=33s" target="_blank">En este ejercicio, exploraremos cómo realizar ingeniería inversa en un archivo ejecutable (.exe) generado con Python. Este escenario es ideal para aprender sobre herramientas de análisis, técnicas de descompilación y cómo proteger tus propios proyectos contra análisis no autorizados.</a></p></td>       
   </tr>
 
   <tr>
