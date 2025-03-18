@@ -218,7 +218,7 @@
     <td style="width: 33%;">2</td>
     <td style="width: 33%;">2023</td>
     <td style="width: 33%;">Solución del challenge Terpsichora(Curso de Ciberseguridad)</td>
-    <td style="width: 33%;"><p><a href="https://www.youtube.com/watch?v=dQ9DdVGGyag" target="_blank">Este ejercicio se puso en practica lo aprendido en el curso de cibersegurida</a></p></td>       
+    <td style="width: 33%;"><p><a href="https://www.youtube.com/watch?v=dQ9DdVGGyag" target="_blank">Un CTF (Capture The Flag) es una competición de ciberseguridad que simula escenarios del mundo real para desafiar a los participantes a resolver problemas relacionados con hacking ético, análisis forense, criptografía, explotación de vulnerabilidades y más. El objetivo principal es "capturar" una bandera , que generalmente es un fragmento de texto en un formato específico (por ejemplo, flag{esto_es_una_bandera}).</a></p></td>       
   </tr>
 
   <tr>
