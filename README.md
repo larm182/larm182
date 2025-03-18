@@ -221,6 +221,15 @@
     <td style="width: 33%;"><p><a href="https://www.youtube.com/watch?v=dQ9DdVGGyag" target="_blank">Este ejercicio se puso en practica lo aprendido en el curso de ciberseguridad</a></p></td>       
   </tr>
 
+  <tr>
+    <td style="width: 33%;">3</td>
+    <td style="width: 33%;">2023</td>
+    <td style="width: 33%;">Solución del Challenge Tace Aetheris(Preparacion para el CEH Practical)</td>
+    <td style="width: 33%;"><p><a href="https://www.youtube.com/watch?v=Qt_2z45p_bE&t=33s" target="_blank">Curso preparador para el CEH Practical</a></p></td>       
+  </tr>
+
+  
+
    </table>
 
 
