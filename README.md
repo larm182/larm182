@@ -291,7 +291,7 @@
     <td style="width: 33%;">11</td>
     <td style="width: 33%;">2023</td>
     <td style="width: 33%;">Simple Ransomwaret</td>
-    <td style="width: 33%;"><p><a href="https://github.com/larm182/Simple_Ransomware" target="_blank">Funcionamiento de un Ransomware,Este documento es estrictamente educativo. No debe usarse para desarrollar, distribuir o ejecutar software malicioso. El uso indebido de esta información puede tener consecuencias legales graves.</a></p></td>
+    <td style="width: 33%;"><p><a href="https://github.com/larm182/Simple_Ransomware" target="_blank">Funcionamiento de un Ransomware, Este documento es estrictamente educativo. No debe usarse para desarrollar, distribuir o ejecutar software malicioso. El uso indebido de esta información puede tener consecuencias legales graves.</a></p></td>
        
   </tr>
   
