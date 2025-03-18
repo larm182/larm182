@@ -239,14 +239,14 @@
     <td style="width: 33%;">5</td>
     <td style="width: 33%;">2024</td>
     <td style="width: 33%;">Solucion del Challenge WEB(Curso de Ciberseguridad)</td>
-    <td style="width: 33%;"><p><a href="https://www.linkedin.com/posts/luis-angel-ramirez-mendoza-0a103a139_programacion-hacking-ciberseguridad-activity-7239982658007572480-Alxd?utm_source=share&utm_medium=member_desktop&rcm=ACoAACGkhvkBJK2MqJ6f6YVwY0Ru2ykVf1gs-c8" target="_blank">Este ejercicio se puso en practica lo aprendido en el curso de ciberseguridad</a></p></td>       
+    <td style="width: 33%;"><p><a href="https://www.linkedin.com/posts/luis-angel-ramirez-mendoza-0a103a139_programacion-hacking-ciberseguridad-activity-7239982658007572480-Alxd?utm_source=share&utm_medium=member_desktop&rcm=ACoAACGkhvkBJK2MqJ6f6YVwY0Ru2ykVf1gs-c8" target="_blank">En este ejercicio, exploraremos cómo funciona una vulnerabilidad XSS en un formulario de carga de archivos y cómo un atacante podría explotarla para ejecutar scripts maliciosos en el navegador de otros usuarios. Este escenario es ideal para aprender sobre validación de entradas, sanitización de datos y mejores prácticas de seguridad en aplicaciones web.</a></p></td>       
   </tr>
 
   <tr>
     <td style="width: 33%;">6</td>
     <td style="width: 33%;">2024</td>
     <td style="width: 33%;">Solucion del Challenge WEB_2(Curso de Ciberseguridad)</td>
-    <td style="width: 33%;"><p><a href="https://www.linkedin.com/posts/luis-angel-ramirez-mendoza-0a103a139_python-programacion-hacking-activity-7257793872368472065-Pyq6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACGkhvkBJK2MqJ6f6YVwY0Ru2ykVf1gs-c8" target="_blank">Este ejercicio se puso en practica lo aprendido en el curso de ciberseguridad</a></p></td>       
+    <td style="width: 33%;"><p><a href="https://www.linkedin.com/posts/luis-angel-ramirez-mendoza-0a103a139_python-programacion-hacking-activity-7257793872368472065-Pyq6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACGkhvkBJK2MqJ6f6YVwY0Ru2ykVf1gs-c8" target="_blank">En este ejercicio, exploraremos cómo funciona una vulnerabilidad IDOR y cómo un atacante podría explotarla para acceder a información sensible. Este escenario es ideal para aprender sobre validación de permisos y mejores prácticas de seguridad en aplicaciones web.</a></p></td>       
   </tr>
 
   
