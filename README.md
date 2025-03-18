@@ -215,7 +215,7 @@
   </tr>
 
    <tr>
-    <td style="width: 33%;">1</td>
+    <td style="width: 33%;">2</td>
     <td style="width: 33%;">2023</td>
     <td style="width: 33%;">Solución del challenge Terpsichora(Curso de Ciberseguridad)</td>
     <td style="width: 33%;"><p><a href="https://www.youtube.com/watch?v=dQ9DdVGGyag" target="_blank">Este ejercicio se puso en practica lo aprendido en el curso de ciberseguridad</a></p></td>       
