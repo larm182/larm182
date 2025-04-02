@@ -284,7 +284,7 @@
     <td style="width: 33%;">1</td>
     <td style="width: 33%;">2025</td>
     <td style="width: 33%;">C2 en Python con Flask-SocketIO</td>
-    <td style="width: 33%;"><p><a href="https://github.com/larm182/Simple-C2" target="_blank"> Este es un sistema de Comando y Control (C2) desarrollado en Python utilizando Flask-SocketIO. Permite la administración remota de clientes, ofreciendo     funcionalidades como: Ejecución de comandos en el cliente, Captura de pantalla remota, Keylogger, Transferencia de archivos, Geolocalización del cliente</a></p></td>
+    <td style="width: 33%;"><p><a href="https://github.com/larm182/Simple-C2" target="_blank"> Este es un sistema de Comando y Control (C2) desarrollado en Python utilizando Flask-SocketIO. Permite la administración remota de clientes, ofreciendo     funcionalidades como: Ejecución de comandos en el cliente, Captura de pantalla remota, Keylogger, Transferencia de archivos, Geolocalización del cliente.</a></p></td>
        
   </tr>
 
@@ -299,7 +299,7 @@
     <td style="width: 33%;">3</td>
     <td style="width: 33%;">2025</td>
     <td style="width: 33%;">Email Spoofing</td>
-    <td style="width: 33%;"><p><a href="https://github.com/larm182/Email_spoof" target="_blank">Script en Python permite realizar email spoofing, es decir, el envío de correos electrónicos con direcciones falsas en el campo "From"</a></p></td>
+    <td style="width: 33%;"><p><a href="https://github.com/larm182/Email_spoof" target="_blank">Script en Python permite realizar email spoofing, es decir, el envío de correos electrónicos con direcciones falsas en el campo "From".</a></p></td>
        
   </tr>
 
