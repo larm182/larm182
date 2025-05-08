@@ -1,8 +1,9 @@
 ### About Me
 
+✨ Ingeniero Electronico.
 🏴‍☠️ Hacker and Speaker.
+🦾 Offensive Security Hardware Engineer, Ethical Hacking, Pentester Web, Docente, Red Team.
 
-🦾 Offensive Security Hardware Engineer, Ethical Hacking, Pentester Web, Docente.
 
 ### Conferences
 
