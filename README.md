@@ -286,7 +286,7 @@
   <tr>
     <td style="width: 33%;">1</td>
     <td style="width: 33%;">2025</td>
-    <td style="width: 33%;">Web_Monitor</td>
+    <td style="width: 33%;">Phishing_WhatsApp</td>
     <td style="width: 33%;"><p><a href="https://github.com/larm182/Phishing_WhatsApp" target="_blank">Creación de una plataforma falsa de verificación tipo WhatsApp con captura y almacenamiento de códigos, orientada al análisis del comportamiento humano durante campañas de ingeniería social.</a></p></td>       
   </tr>
 
