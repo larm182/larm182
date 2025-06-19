@@ -286,6 +286,15 @@
    <tr>
     <td style="width: 33%;">1</td>
     <td style="width: 33%;">2025</td>
+    <td style="width: 33%;">Web_Monitor</td>
+    <td style="width: 33%;"><p><a href="https://github.com/larm182/Web_Monitor" target="_blank">Un sistema de monitoreo que: Analiza los logs de Apache para detectar IPs con actividad sospechosa, identifica posibles ataques como fuerza bruta o escaneo masivo de directorios.
+Envía alertas automáticas a Telegram a través de un bot personalizado.</a></p></td>
+       
+  </tr>
+
+   <tr>
+    <td style="width: 33%;">3</td>
+    <td style="width: 33%;">2025</td>
     <td style="width: 33%;">RECON Tool - Análisis de IP y Números Telefónicos</td>
     <td style="width: 33%;"><p><a href="https://github.com/larm182/RECONSNIPER-" target="_blank"> Una herramienta OSINT desarrollada en Python que permite analizar direcciones IP y números telefónicos, obteniendo información geográfica, de red y de operadores móviles.</a></p></td>
        
