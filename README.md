@@ -287,9 +287,7 @@
     <td style="width: 33%;">1</td>
     <td style="width: 33%;">2025</td>
     <td style="width: 33%;">Spider2.0 Escaner de Vulnerabilidades Web</td>
-    <td style="width: 33%;"><p><a href="https://github.com/larm182/Spider2.0" target="_blank">Spider 2.0 es una herramienta de seguridad en Python diseñada para realizar análisis automatizados en sitios web. Permite detectar vulnerabilidades comunes, recopilar información del servidor y generar informes detallados en PDF con los hallazgos obtenidos, Esta version es totalmente Grafica.
-
-Esta herramienta es ideal para pentesters, profesionales de ciberseguridad y administradores de sistemas que deseen evaluar la seguridad de sus aplicaciones web de manera eficiente.</a></p></td>       
+    <td style="width: 33%;"><p><a href="https://github.com/larm182/Spider2.0" target="_blank">Spider 2.0 es una herramienta de seguridad en Python diseñada para realizar análisis automatizados en sitios web. Permite detectar vulnerabilidades comunes, recopilar información del servidor y generar informes detallados en PDF con los hallazgos obtenidos, Esta version es totalmente Grafica, Esta herramienta es ideal para pentesters, profesionales de ciberseguridad y administradores de sistemas que deseen evaluar la seguridad de sus aplicaciones web de manera eficiente.</a></p></td>       
   </tr>
 
   <tr>
