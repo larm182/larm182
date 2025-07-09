@@ -267,6 +267,17 @@
     <td style="width: 33%;"><p><a href="https://www.linkedin.com/posts/luis-angel-ramirez-mendoza-0a103a139_python-programacion-hacking-activity-7257793872368472065-Pyq6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACGkhvkBJK2MqJ6f6YVwY0Ru2ykVf1gs-c8" target="_blank">En este ejercicio, exploraremos cómo funciona una vulnerabilidad IDOR y cómo un atacante podría explotarla para acceder a información sensible. Este escenario es ideal para aprender sobre validación de permisos y mejores prácticas de seguridad en aplicaciones web.</a></p></td>       
   </tr>
 
+  <tr>
+    <td style="width: 33%;">7</td>
+    <td style="width: 33%;">2025</td>
+    <td style="width: 33%;">CTF Active Directory, VPN Pivoting y Escalada de Privilegios </td>
+    <td style="width: 33%;"><p><a href="https://medium.com/@larm182/ejercicio-active-directory-vpn-pivoting-y-escalada-de-privilegios-73de6418a736" target="_blank">Este CTF está diseñado para simular un entorno empresarial comprometido con:
+. Un controlador de dominio Windows vulnerable (Active Directory).
+. Una máquina intermedia Linux (VPN Gateway) con posibilidad de escalada de privilegios.
+. Una máquina final protegida por una VPN, solo accesible tras pivoting
+. El objetivo final es obtener una flag ubicada en la máquina 3.</a></p></td>       
+  </tr>
+
   
 
    </table>
