@@ -179,12 +179,33 @@
  <tr>
     <td style="width: 33%;">4</td>
     <td style="width: 33%;">Me Filtraron</td>
-    <td style="width: 33%;">Desmitificando el fraude con BINs"</td>  
+    <td style="width: 33%;">"Cybercrime:: Desmitificando el fraude con BINs"</td>  
+    <td style="width: 33%;"><p><a href="https://mefiltraron.com/papers" target="_blank">Articulo</a></p></td>
+  </tr>
+
+   <tr>
+    <td style="width: 33%;">5</td>
+    <td style="width: 33%;">Me Filtraron</td>
+    <td style="width: 33%;">"Cybercrime: Creando un panel de phishing de WhatsApp"</td>  
     <td style="width: 33%;"><p><a href="https://mefiltraron.com/papers" target="_blank">Articulo</a></p></td>
   </tr>
 
   <tr>
-    <td style="width: 33%;">5</td>
+    <td style="width: 33%;">6</td>
+    <td style="width: 33%;">Me Filtraron</td>
+    <td style="width: 33%;">"Web3: Phishing"</td>  
+    <td style="width: 33%;"><p><a href="https://mefiltraron.com/papers" target="_blank">Articulo</a></p></td>
+  </tr>
+
+  <tr>
+    <td style="width: 33%;">7</td>
+    <td style="width: 33%;">Me Filtraron</td>
+    <td style="width: 33%;">" Ransomware: (Rhysida vs PAMI)"</td>  
+    <td style="width: 33%;"><p><a href="https://mefiltraron.com/papers" target="_blank">Articulo</a></p></td>
+  </tr>
+
+  <tr>
+    <td style="width: 33%;">8</td>
     <td style="width: 33%;">Linkedin</td>
     <td style="width: 33%;">"Ingeniería Social utilizando IoT (ESP8266)"</td>  
     <td style="width: 33%;"><p><a href="https://www.linkedin.com/pulse/ingenier%C3%ADa-social-utilizando-iot-esp8266-luis-angel-ramirez-mendoza-il7cc/?trackingId=qCBlBjDnIWEjrn%2FmM6gOZA%3D%3D" target="_blank">Articulo</a></p></td>
@@ -193,7 +214,7 @@
   
 
    <tr>
-    <td style="width: 33%;">6</td>
+    <td style="width: 33%;">9</td>
     <td style="width: 33%;">Diario del Norte</td>
     <td style="width: 33%;">"Feria Tecnologica Universidad de La Guajira"</td>
      <td style="width: 33%;"><p><a href="https://drive.google.com/file/d/1ZMTGnmJ9mQqQ3V62r2eki9veetrCnhtt/view?usp=sharing" target="_blank">Recorte del periodico impreso</a></p></td>
