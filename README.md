@@ -271,11 +271,10 @@
     <td style="width: 33%;">7</td>
     <td style="width: 33%;">2025</td>
     <td style="width: 33%;">CTF Active Directory, VPN Pivoting y Escalada de Privilegios </td>
-    <td style="width: 33%;"><p><a href="https://medium.com/@larm182/ejercicio-active-directory-vpn-pivoting-y-escalada-de-privilegios-73de6418a736" target="_blank">Este CTF está diseñado para simular un entorno empresarial comprometido con:
-. Un controlador de dominio Windows vulnerable (Active Directory).
-. Una máquina intermedia Linux (VPN Gateway) con posibilidad de escalada de privilegios.
-. Una máquina final protegida por una VPN, solo accesible tras pivoting
-. El objetivo final es obtener una flag ubicada en la máquina 3.</a></p></td>       
+    <td style="width: 33%;"><p><a href="https://medium.com/@larm182/ejercicio-active-directory-vpn-pivoting-y-escalada-de-privilegios-73de6418a736" target="_blank">Este CTF está diseñado para simular un entorno empresarial comprometido con: 1. Un controlador de dominio Windows vulnerable (Active Directory).
+2. Una máquina intermedia Linux (VPN Gateway) con posibilidad de escalada de privilegios.
+3. Una máquina final protegida por una VPN, solo accesible tras pivoting
+4. El objetivo final es obtener una flag ubicada en la máquina 3.</a></p></td>       
   </tr>
 
   
