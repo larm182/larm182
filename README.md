@@ -6,6 +6,8 @@
 
 🦾 Offensive Security Hardware Engineer, Ethical Hacking, Pentester Web, Docente, Red Team.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larm182&layout=compact&langs_count=6&theme=tokyonight)
+
 
 ### Conferences
 
