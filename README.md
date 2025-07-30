@@ -10,6 +10,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larm182&layout=compact&theme=dracula)
 
+![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+
 
 
 ### Conferences
