@@ -20,6 +20,10 @@
 ![Kivy](https://img.shields.io/badge/-Kivy-4C4C4C?style=flat&logo=kivy&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp--Suite-ff6600?style=flat&logoColor=white)
 
+## 📊 Estadísticas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=tokyonight)
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=tokyonight)
 
 
 
