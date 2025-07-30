@@ -12,18 +12,35 @@
 
 ## 🛠️ Tecnologías que uso
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kivy](https://img.shields.io/badge/-Kivy-4C4C4C?style=flat&logo=kivy&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp--Suite-ff6600?style=flat&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=orange)
 
-## 📊 Estadísticas
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larm182&layout=compact&theme=tokyonight)
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=larm182&show_icons=true&theme=tokyonight)
+## 🧰 Herramientas que manejo
+
+### 🔍 Escaneo y Enumeración
+`Nmap`, `Gobuster`, `theHarvester`, `FFUF`, `Dig`, `Whois`, `NSLookup`, `WhatWeb`
+
+### 🛡️ Detección de Vulnerabilidades
+`Nikto`, `Nuclei`, `WPScan`, `Wapiti`
+
+### 🔐 Fuerza Bruta y Cracking
+`Hydra`, `John the Ripper`, `Hashcat`, `CeWL`, `Crunch`
+
+### 📡 Intercepción y Manipulación de Tráfico
+`Wireshark`, `Burp Suite`, `Ettercap`, `MITMf`
+
+### 💉 Explotación
+`Metasploit`, `SQLMap`, `msfvenom`, `ExploitDB`, `BeEF`
+
+### 🔎 OSINT
+`Shodan`, `Maltego`, `theHarvester`, `Amass`, `SpiderFoot`
+
+### 🎭 Ingeniería Social
+`SET (Social Engineering Toolkit)`, `zphisher`, `EvilURL`, `HiddenEye`
 
 
 
