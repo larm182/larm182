@@ -22,8 +22,8 @@
 
 ## 📊 Estadísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=tokyonight)
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larm182&layout=compact&theme=tokyonight)
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=larm182&show_icons=true&theme=tokyonight)
 
 
 
