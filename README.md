@@ -6,6 +6,8 @@
 
 🦾 Offensive Security Hardware Engineer, Ethical Hacking, Pentester Web, Docente, Red Team.
 
+💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario/)  
+
 ## 📊 Lenguajes
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larm182&layout=compact&theme=dracula)
